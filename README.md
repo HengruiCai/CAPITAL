@@ -1,6 +1,6 @@
 # CAPITAL: Optimal Subgroup Identification via Constrained Policy Tree Search
 
-This repository is the official implementation of *CAPITAL: Optimal Subgroup Identification via Constrained Policy Tree Search*.
+This repository is the official implementation of [CAPITAL: Optimal Subgroup Identification via Constrained Policy Tree Search](https://arxiv.org/abs/2110.05636).
 
 ## Introduction
 
